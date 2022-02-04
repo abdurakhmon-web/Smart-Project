@@ -805,6 +805,7 @@ address {
 }
 
 #mainmenu ul li a {
+	font-weight: 700;
 	padding: 0 40px;
 	width: 100%;
 	line-height: 60px;
@@ -1796,8 +1797,9 @@ article.personal-profile .inner h4 {
 .fullscreen-slider .swiper-slide h3 {
 	font-size: 42px;
 	line-height: 76px;
-	color: #fff;
+	color: #FFCD23;
 	font-weight: 700;
+	background: rgba(0, 0, 0, 0.5);
 }
 
 /* Responsive */
@@ -2547,7 +2549,7 @@ div.wpcf7 .placeheld {
 a,#heading h2 a:hover,a[rel=bookmark]:hover,.vcard.fn{color:#00a3cc;}
 a:hover{color:#007a99;}
 #content{background-color:#e1e1e1;}
-#top{background-color:#1d2027;}#sidebar,.copyright{background-color:#504b4b;}
+#top{background-color:#1d2027;}#sidebar,.copyright{background-color:#6a6c6d;}
 #sidebar a,#mainmenu ul li a,.copyright,a[rel=bookmark],#logo h1 a{color:#FFCD23;}.portfolio-full,.service-box .image,.widget-recent-tabs .nav-tabs > li.active > a,.widget-recent-tabs .nav-tabs > li.active > a:hover,.widget-recent-tabs .nav-tabs > li.active > a:focus,.pag a,.pag span,.filter-dropdown,.filter-dropdown ul,.inner,#respond{background-color:#ffffff;}
 #heading h1,#heading h2,#heading h2 a,.comments h3{color:#202020;}
 #preloader{background-color:#f0f0f0;}.windows8 .wBall .wInnerBall{background-color:#202020;}
